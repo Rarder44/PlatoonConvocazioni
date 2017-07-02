@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'http://lpozzi.it/TelegramBot/PlatoonConvocazioni//execute.php';
+$WEBHOOK_URL = 'https://platoonconvocazioni.herokuapp.com/execute.php';
 $BOT_TOKEN = '402367638:AAGD_12tu7_KDmSokciDBpvuYbwv8L7pUco';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
